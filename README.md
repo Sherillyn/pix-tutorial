@@ -37,7 +37,7 @@ Você poderá também criar uma chave aleatória de 32 caracteres para ter mais 
 
 ## Como configurar sua chave PIX?
 
-Antes de cadastrar a chave, é importante saber os tipos de opções. São elas:
+Antes de cadastrar a chave, é importante saber as opções. São elas:
 - CPF/CNPJ;
 - E-mail;
 - Celular;
@@ -45,8 +45,16 @@ Antes de cadastrar a chave, é importante saber os tipos de opções. São elas:
 
 O cadastro de chaves para pessoas físicas limita-se até cinco chaves Pix por conta. Em contrapartida, pessoas jurídicas podem registrar até 20. Só não é possível usar o mesmo dado como chave de duas instituições diferentes.
 
-1. Acesse sua conta via app ou internet banking e procure a sessão/área PIX
-2. Dentro do menu PIX localize a opção "minhas chaves
+1. Acesse sua conta via app ou internet banking e procure a sessão/área PIX;
+2. Dentro do menu PIX localize a opção "minhas chaves";
+3. Na tela seguinte, clique em "cadastrar chave";
+4. Caso você tenha conta corrente e poupança, será necessário escolher para qual delas você deseja cadastrar sua chave.
+5. Selecionado a conta, determine qual será o tipo da sua chave, dentro das opções informadas no começo desse tópico. 
+6. Leia as informações sobre dados compartilhados e notificações do seu 
+
+
+
+
 
 
 
