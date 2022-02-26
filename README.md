@@ -33,11 +33,7 @@ Você poderá também criar uma chave aleatória de 32 caracteres para ter mais 
 
 ## Como configurar sua chave PIX?
 
-1. Acesse o aplicativo do Itaú e vá em “PIX”.
-Captura da tela inicial do app do nubank com seta laranja indicando pix
-Registro no Nubank.
-
-2. Em seguida, clique em “Registrar no PIX”.
+1.
 
  
  
