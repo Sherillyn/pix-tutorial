@@ -9,15 +9,17 @@ O objetivo desse repositório é centralizar as informações sobre PIX.
    > -  [Como e por que usar?](#como-e-porque-usar)
    > -  [Como configurar sua chave PIX?](#como-configurar-sua-chave-pix)
       
-2. Pagamentos via PIX
+2. Transações via PIX
 > - Transferências
-> - QR CODE
+> - QR CODE PIX
 > - Cobranças
-  
+
 3. Portabilidade de chaves
 
 4. Consultas
 > - Extratos PIX
+> - Comprovantes 
+> - Chaves cadastradas
 
 
 ## O que é PIX?
