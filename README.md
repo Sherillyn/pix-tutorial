@@ -37,10 +37,6 @@ Você poderá também criar uma chave aleatória de 32 caracteres para ter mais 
 
 ## Como configurar sua chave PIX?
 
-**Nota 1:** Os tutorias foram baseados nas telas do itaú a título de exemplo. Os campos podem variar dependendo do banco que a pessoa utilize. Procure sempre opções parecidas na sua tela. Segundo o Banco Central, o ícone do PIX, sempre ficará destacado na tela inicial.
-
-
-
 Antes de cadastrar a chave, é importante saber os tipos de opções. São elas:
 - CPF/CNPJ;
 - E-mail;
@@ -51,6 +47,14 @@ O cadastro de chaves para pessoas físicas limita-se até cinco chaves Pix por c
 
 1. Acesse sua conta via app ou internet banking e procure a sessão/área PIX
 2. Dentro do menu PIX localize a opção "minhas chaves
+
+
+
+
+**NOTA 1:** Os tutorias foram baseados nas telas do itaú a título de exemplo. Os campos podem variar dependendo do banco que a pessoa utilize. Procure sempre opções parecidas na sua tela. Segundo o Banco Central, o ícone do PIX, sempre ficará destacado na tela inicial. 
+*todos os dados pessoais foram apagados*
+
+**NOTA 2**: o cadastro no internet banking pode mudar a configuração das imagens, mas as opções são as mesmas.
  
  
  
