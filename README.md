@@ -7,7 +7,7 @@ O objetivo desse repositório é centralizar as informações sobre Pix.
 :point_right: Aqui você vai encontrar:
  
  1.  Informações inicias
-   > -  [O que é Pix?](#o-que-e-pix)
+   > -  [O que é Pix>](#o-que-e-pix)
    >     -  [Por que usar?](#por-que-usar)
    > -  [Como configurar sua chave Pix?](#como-configurar-sua-chave-pix)
       
@@ -26,10 +26,41 @@ O objetivo desse repositório é centralizar as informações sobre Pix.
 
 ## O que é Pix?
 
+O Pix é um método de transferência bancária que chegou para mexer positivamente com a cabeça do usuário. Criado pelo Banco Central, o Pix é uma forma de pagamento instantâneo, onde o dinheiro pode ser transferido de uma conta pra outra em até 10 segundos. Sem tarifas! 
+
+Além das transferências, o Pix é capaz de realizar pagamentos (luz, água, celular etc) e outros.
 
 
 ### Por que usar?
 
+Pix é mais versátil que outros meios de pagamento usados atualmente, além de reunir as qualidades de todos eles em um só formato. Mas se tivessemos que listar algumas vantagens, quais seriam?
+
+#### Disponível a qualquer momento
+ 
+Os horários comerciais ou 3 dias úteis para que o dinheiro caia na conta não está no Pix. A qualquer hora do dia você pode transferir e receber, todos os dias (inclusive finais de semana e feriado). 
+
+#### Sem burocracia, faça tudo pelo celular
+
+Banco físico? Não mesmo. O Pix é realizado na palma da sua mão, através do seu celular por meio de 3 formas: 
+
+- QR Code: Quem faz um pagamento por Pix precisa apenas ler o QR Code gerado pelo recebedor ou estabelecimento. Isso pode ser feito a qualquer dia ou horário e ser completado em alguns segundos;
+
+- Chaves Pix: É o dado que será necessário para poder enviar um Pix a alguém – em vez de informar o banco, CPF, nome completo, número da agência e da conta, por exemplo. Para enviar um Pix, basta informar uma das chaves do recebedor; 
+
+- Dados pessoais: Se preferir, você pode informar os dados do banco, CPF, nome completo, número da agência e da conta.
+
+#### Pessoas físicas não tem custo 
+O Banco Central disponibiliza gratuitamente, transações via Pix para pessoas físicas e microeempreendedores individuais. No entanto, o Pix pode ser cobrado para esses usuários, nos seguintes casos: realizar transações utilizando um canal de atendimento presencial (como no caixa) ou pessoal, por telefone. Quando o Pix estiver disponível em meios eletrônicos. Outra forma de cobrança se dá quando o usuário recebe um Pix como pagamento de um produto ou serviço vendido. 
+
+Já pessoas jurídicas, possuem regras específicas para a cobrança desse serviço. Clique no [link](https://vocesa.abril.com.br/dinheiro/veja-quanto-os-empreendedores-pagam-de-taxa-para-usar-o-pix/) e saiba mais. 
+
+
+#### Controle maior que as outras operações
+
+Para quem tem empresa e for usar o Pix, o controle do fluxo de caixa e o recolhimento dos tributos vão ficar mais fáceis, já que tudo é registrado de forma digital. O controle também será melhor para pessoas físicas, já que, com um sistema unificado, ficará mais fácil visualizar as movimentações.
+
+#### Segurança
+O Pix conta com os mesmos protocolos de segurança do Sistema Financeiro Nacional que já usamos hoje, e que também servem para TEDs e DOCs. As transações e os dados dos usuários são protegidos por duas medidas de segurança principais: a criptografia e a autenticação.
 
 
 ## Como configurar sua chave Pix?
