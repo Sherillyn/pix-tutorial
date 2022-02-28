@@ -7,7 +7,7 @@ O objetivo desse repositório é centralizar as informações sobre Pix.
 :point_right: Aqui você vai encontrar:
  
  1.  Informações inicias
-   > -  [O que é Pix?](#o-que-e-pix)
+   > -  [O que é Pix?](#o-que-e-pix-?)
    >     -  [Por que usar?](#por-que-usar)
    > -  [Como configurar sua chave Pix?](#como-configurar-sua-chave-pix)
       
